@@ -451,6 +451,8 @@ span.low{
     margin: 1vmin;
     border-radius: var(--rounding);
 
+    cursor: pointer;
+
     border-width: 0.5vmin;
     border-color: var(--foreground-color-grade50);
     border-style: solid;
@@ -740,8 +742,8 @@ svg{
 }
 
 .tl-dialog{
-    opacity: 0.2;
-    backdrop-filter: blur(0vmin) !important;
+    backdrop-filter: blur(2vmin) !important;
+    background-color: rgba(var(--checked-color), 0.8) !important;
 }
 
 .dialog{
@@ -1012,7 +1014,7 @@ svg{
     overflow: hidden;
 
     border-color: var(--text-color-default);
-    border-width: 0.1vmin;
+    border-width: 1vmin;
     border-style: solid;
 
     border-radius: var(--rounding);
