@@ -1,10 +1,8 @@
 # calendar
 
-this is a calendar i've been making for a while.
+this is a calendar I made a few years back. the code isn't "best practices" but is a great... learning experience
 
-you can visit it [here](https://c.a-b.zc.al)
+you can visit it [here](https://calendar.undo.it/)
 
 ### licensing
-right now, it's licensed under CC0.
-i'm not sure whether to change it.
-either way, if i change it, previous versions will *still* be licensed under cc0.
+all code is licensed under cc0. have fun
